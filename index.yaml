@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mytestchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-10T22:16:50.051282615Z"
+    description: A Helm chart for Kubernetes
+    digest: 36332387fe193c5bdb69736e6b7ffaf6d33df0409a71e5deafd4d8f3aa3f9894
+    name: mytestchart
+    type: application
+    urls:
+    - https://github.com/gaurav-garv4u/myhelm-chart-repo/releases/download/mytestchart-0.1.0/mytestchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-11-10T22:16:49.738101697Z"
